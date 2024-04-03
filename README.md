@@ -1,4 +1,4 @@
-# Docker-security
+# Docker security
 
 This repository contains the code for Launching a web application through docker and running indivudal tests on the application security using bash scripts. 
 Some of the tests include
